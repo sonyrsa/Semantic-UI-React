@@ -19,8 +19,8 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
     "cross-env": "^5.0.5",
-    "react": "^15.6.2",
-    "react-dom": "^15.6.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "semantic-ui-react": "^0.74.2",
     "webpack": "^2.7.0"
   },
